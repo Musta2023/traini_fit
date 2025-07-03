@@ -2,7 +2,7 @@
 import Header from './components/Header'
 import Hero from './components/Hero'
 import Body from './components/Body'
-import Contact from './components/Contact'
+import Content from './components/Content'
 import Footer from './components/Footer'
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
      <Header/>
      <Hero/>
      <Body/>
-     <Contact/>
+     <Content/>
      <Footer/>
 
     </>
