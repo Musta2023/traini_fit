@@ -79,6 +79,7 @@ const BodyTypes = () => {
           </div>
         </div>
 
+
         {/* Nearest Gyms */}
         <div className="bg-gradient-to-br from-purple-50 to-pink-100 p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300">
           <h3 className="text-2xl font-semibold mb-4 text-gray-800">🏢 Nearest Gyms to You</h3>
