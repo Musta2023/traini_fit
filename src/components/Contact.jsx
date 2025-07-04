@@ -72,7 +72,7 @@ export default function Contact() {
   return (
     <section className="py-16 px-6 max-w-6xl mx-auto" aria-labelledby="features-title">
       <h2 id="features-title" className="text-4xl font-extrabold text-center text-indigo-700 mb-12">
-        Why Choose Fit Morocco?
+        Why Choose Fit life?
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {features.map((f) => (

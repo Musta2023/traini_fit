@@ -1,4 +1,5 @@
-import Blog from '../models/Blog.js'
+
+import Blog from '../models/Blog.js';
 
 // ✅ Create Blog
 export const createBlog = async (req, res) => {
