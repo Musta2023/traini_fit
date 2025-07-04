@@ -10,7 +10,7 @@ const Footer = () => {
 
         {/* Brand */}
         <div>
-          <h2 className="text-2xl font-bold text-gray-800 mb-4">🏋️‍♂️ Traini Fit</h2>
+          <h2 className="text-2xl font-bold text-gray-800 mb-4">🏋️‍♂️ FitLife</h2>
           <p className="text-sm text-gray-600">
             Programs tailored for every body.<br />
             A community transforming together.
@@ -57,7 +57,7 @@ const Footer = () => {
 
       {/* Bottom */}
       <div className="mt-10 border-t border-gray-300 pt-4 text-sm text-center text-gray-500">
-        &copy; {year} Traini Fit. All rights reserved.
+        &copy; {year} FitLife. All rights reserved.
       </div>
     </footer>
   );
